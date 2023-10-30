@@ -12,5 +12,4 @@
 <p>2017.03 ~ 2023.02 동국대학교 컴퓨터정보통신공학부 정보통신공학전공</p>
 
 <h3>BaekJoon</h3>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangwoo9808)](https://solved.ac/sangwoo9808)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangwoo9808)](https://solved.ac/sangwoo9808)
