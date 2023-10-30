@@ -1,6 +1,3 @@
-<div align="center">
-
-
 <h3>Email</h3>
 <p>sangwoo9808@gmail.com</p>
 
