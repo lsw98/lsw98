@@ -11,6 +11,7 @@ sangwoo9808@gmail.com
 
 ### ✏️ Experience
 2023.01 ~ 삼성청년SW아카데미(SSAFY) 9기
+
 2017.03 ~ 2023.02 동국대학교 컴퓨터정보통신공학부 정보통신공학전공
 
 ### ✏️ BaekJoon
